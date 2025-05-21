@@ -11,7 +11,7 @@ consumer = KafkaConsumer(
 
 # MongoDB Atlas Connection
 # Replace the below URI with your Atlas connection string
-client = MongoClient("mongodb+srv://lmt:MatKhau123@cluster0.jedo2sp.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("")
 
 collection = client['numtest']['numtest']  # database: numtest, collection: numtest
 print("done")
