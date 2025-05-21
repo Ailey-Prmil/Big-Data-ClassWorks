@@ -1,0 +1,12 @@
+,name,artists,acousticness,liveness,instrumentalness,energy,danceability,valence
+87,Evil Ways,['Santana'],0.22,0.14,0.35,0.528,0.704,0.73
+208,Time Of The Season,['The Zombies'],0.127,0.275,3.83e-06,0.571,0.541,0.666
+195,(You're The) Devil In Disguise,['Elvis Presley'],0.481,0.242,0.00141,0.579,0.483,0.891
+53,Suspicious Minds,['Elvis Presley'],0.0422,0.411,4.74e-06,0.382,0.487,0.714
+117,Glass Onion - Remastered 2009,['The Beatles'],0.0123,0.108,8.38e-05,0.51,0.523,0.789
+44,I Wanna Be Your Dog,['The Stooges'],0.0229,0.419,0.155,0.871,0.527,0.107
+168,In-A-Gadda-Da-Vida - 2006 Remaster Full-Length,['Iron Butterfly'],0.00577,0.192,0.375,0.452,0.548,0.5
+218,I Get The Sweetest Feeling,['Jackie Wilson'],0.778,0.148,0.000351,0.482,0.684,0.749
+80,California Dreamin',['Bobby Womack'],0.767,0.179,0.0653,0.385,0.47,0.694
+279,I Heard It Through The Grapevine,['Gladys Knight & The Pips'],0.213,0.205,2.22e-05,0.589,0.685,0.906
+5,Ave Maria,['Dick Haymes'],0.994,0.0977,0.247,0.261,0.227,0.0539
